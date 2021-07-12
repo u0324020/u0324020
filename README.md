@@ -19,6 +19,11 @@
 - [Nexus-upload and delete file](https://janelifelog.medium.com/nexus-upload-and-delete-file-cdcb91d30c1e?source=rss-5584aeaa985b------2)
 - [Golang web (5)- Send Json](https://janelifelog.medium.com/golang-web-5-send-json-d6b59b00c5bc?source=rss-5584aeaa985b------2)
 - [Golang web (4)- Send Value](https://janelifelog.medium.com/golang-web-4-send-value-e94b26a43b38?source=rss-5584aeaa985b------2)
+- [Golang web (3)- Gin Templates](https://janelifelog.medium.com/golang-web-3-gin-templates-aed71f23c3b2?source=rss-5584aeaa985b------2)
+- [Golang web ()- Gin framework](https://janelifelog.medium.com/golang-web-gin-framework-e94ddd47b007?source=rss-5584aeaa985b------2)
+- [Google Colab proxy port return 403](https://janelifelog.medium.com/google-colab-proxy-port-return-403-d3383c58206d?source=rss-5584aeaa985b------2)
+- [Golang web (1)- HelloWorld](https://janelifelog.medium.com/golang-web-1-helloworld-2fb411060b12?source=rss-5584aeaa985b------2)
+- [Kubernetes and Helm Concept](https://janelifelog.medium.com/kubernetes-and-helm-concept-e31099e3569a?source=rss-5584aeaa985b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
