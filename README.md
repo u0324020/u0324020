@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jane</h1>
 <h3 align="center">A DevOps developer from Taiwan</h3>
 
-- 🌱 I’m currently learning **VSOC**
+- 🌱 I’m currently learning **Cloud Service**
 
 - 📝 I regularly write articles on [https://janelifelog.medium.com](https://janelifelog.medium.com)
 
