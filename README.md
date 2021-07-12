@@ -1,7 +1,11 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Jane</h1>
 <h3 align="center">A DevOps developer from Taiwan</h3>
+
+- 🌱 I’m currently learning **VSOC**
+
+- 📝 I regularly write articles on [https://janelifelog.medium.com](https://janelifelog.medium.com)
+
+- 📄 Know about my experiences [https://u0324020.github.io/JaneChen/](https://u0324020.github.io/JaneChen/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
