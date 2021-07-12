@@ -14,6 +14,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Lake Concept](https://janelifelog.medium.com/data-lake-concept-9377f33e7ef0?source=rss-5584aeaa985b------2)
+- [The different of yq3 and yq4 read yaml](https://janelifelog.medium.com/the-different-of-yq3-and-yq4-read-yaml-c68df0e337da?source=rss-5584aeaa985b------2)
+- [Nexus-upload and delete file](https://janelifelog.medium.com/nexus-upload-and-delete-file-cdcb91d30c1e?source=rss-5584aeaa985b------2)
+- [Golang web (5)- Send Json](https://janelifelog.medium.com/golang-web-5-send-json-d6b59b00c5bc?source=rss-5584aeaa985b------2)
+- [Golang web (4)- Send Value](https://janelifelog.medium.com/golang-web-4-send-value-e94b26a43b38?source=rss-5584aeaa985b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
