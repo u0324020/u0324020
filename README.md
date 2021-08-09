@@ -14,11 +14,11 @@
 
 ## 📝 Latest medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes — secret](https://janelifelog.medium.com/kubernetes-secret-1ea65faeb18a?source=rss-5584aeaa985b------2)
 - [Github Actions — checkout error](https://janelifelog.medium.com/github-actions-checkout-error-a0c8d2e10d6f?source=rss-5584aeaa985b------2)
 - [Github Action — Conception](https://janelifelog.medium.com/github-action-conception-c0f3a67479a7?source=rss-5584aeaa985b------2)
 - [[Git] git emoji plugin](https://janelifelog.medium.com/git-git-emoji-plugin-d3b22d624910?source=rss-5584aeaa985b------2)
 - [[Git] Common commands](https://janelifelog.medium.com/git-common-commands-4004bc039167?source=rss-5584aeaa985b------2)
-- [[Vault] manage secrets and protect sensitive data](https://janelifelog.medium.com/vault-manage-secrets-and-protect-sensitive-data-b303df09a8d1?source=rss-5584aeaa985b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
