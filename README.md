@@ -14,11 +14,11 @@
 
 ## 📝 Latest medium posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions — Create an Action](https://janelifelog.medium.com/github-actions-create-an-action-cc70992b76ba?source=rss-5584aeaa985b------2)
+- [GitHub Actions — Publish an Action](https://janelifelog.medium.com/github-actions-publish-an-action-2fcd466540ee?source=rss-5584aeaa985b------2)
+- [Kubernetes — harbor robot account](https://janelifelog.medium.com/kubernetes-harbor-robot-account-e4d75341a60e?source=rss-5584aeaa985b------2)
 - [Kubernetes — secret](https://janelifelog.medium.com/kubernetes-secret-1ea65faeb18a?source=rss-5584aeaa985b------2)
 - [Github Actions — checkout error](https://janelifelog.medium.com/github-actions-checkout-error-a0c8d2e10d6f?source=rss-5584aeaa985b------2)
-- [Github Action — Conception](https://janelifelog.medium.com/github-action-conception-c0f3a67479a7?source=rss-5584aeaa985b------2)
-- [[Git] git emoji plugin](https://janelifelog.medium.com/git-git-emoji-plugin-d3b22d624910?source=rss-5584aeaa985b------2)
-- [[Git] Common commands](https://janelifelog.medium.com/git-common-commands-4004bc039167?source=rss-5584aeaa985b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
