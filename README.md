@@ -14,11 +14,11 @@
 
 ## 📝 Latest medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Github Actions — Robot Framework](https://janelifelog.medium.com/github-actions-robot-framework-cf6da14180a8?source=rss-5584aeaa985b------2)
 - [Github Actions — Github Template](https://janelifelog.medium.com/github-actions-github-template-52e878ac5027?source=rss-5584aeaa985b------2)
 - [Github Actions — Python CI/CD](https://janelifelog.medium.com/github-actions-python-ci-cd-e6c1452df5a3?source=rss-5584aeaa985b------2)
 - [Github Actions — Scan Code](https://janelifelog.medium.com/github-actions-scan-code-41c82ec82140?source=rss-5584aeaa985b------2)
 - [GitHub Actions — Create an Action](https://janelifelog.medium.com/github-actions-create-an-action-cc70992b76ba?source=rss-5584aeaa985b------2)
-- [GitHub Actions — Publish an Action](https://janelifelog.medium.com/github-actions-publish-an-action-2fcd466540ee?source=rss-5584aeaa985b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
