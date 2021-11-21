@@ -16,8 +16,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [AWS ALB with WAF](https://janelifelog.medium.com/aws-alb-with-waf-5d939567d4da?source=rss-5584aeaa985b------2)
 - [AWS Trust Relationship — sts:T](https://janelifelog.medium.com/aws-trust-relationship-sts-t-ce2a0028d6fe?source=rss-5584aeaa985b------2)
-- [Github Actions — Robot Framework Report](https://janelifelog.medium.com/github-actions-robot-framework-report-b5496efff2dd?source=rss-5584aeaa985b------2)
-- [Github Actions — Robot Framework](https://janelifelog.medium.com/github-actions-robot-framework-cf6da14180a8?source=rss-5584aeaa985b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
