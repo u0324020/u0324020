@@ -14,7 +14,7 @@
 
 ## 📝 Latest medium posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS ALB with WAF](https://janelifelog.medium.com/aws-alb-with-waf-5d939567d4da?source=rss-5584aeaa985b------2)
+- [GitHub Actions-Custom Actions Image from Private Registry](https://janelifelog.medium.com/github-actions-custom-actions-image-from-private-registry-af676b0d90d1?source=rss-5584aeaa985b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
